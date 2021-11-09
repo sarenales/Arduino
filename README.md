@@ -17,6 +17,7 @@ alimenta determinados dispositivos y toma decisiones de acuerdo al programa desc
 tarea en el mundo físico a una acción (actuadores). Y viceversa, gracias a sensores que están conectados a la placa, podemos hacer que el ordenador ejecute una determinada
 acción.
 
+Programaremos en C++.
 
 //En esta carpeta compartiré proyectos desde muy básicos hasta algunos con un mayor grado de complejidad.
 
